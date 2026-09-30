@@ -1,0 +1,7 @@
+streamlit
+google-genai
+gTTS
+SpeechRecognition
+audio-recorder-streamlit
+Pillow
+duckduckgo-search
